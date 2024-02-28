@@ -1,12 +1,12 @@
 # Coding-Challenge
-
-# wc -tool
-  command: 
-    build: go build wc-command.go
-    run: 
-      .\wc-command.exe -c wc-command.txt
-      .\wc-command.exe -l wc-command.txt
-      .\wc-command.exe -w wc-command.txt
-      .\wc-command.exe -m wc-command.txt
-
+<br/>
+# wc -tool<br/>
+  command: <br/>
+    build: go build wc-command.go <br/>
+    run: <br/>
+      .\wc-command.exe -c wc-command.txt<br/>
+      .\wc-command.exe -l wc-command.txt<br/>
+      .\wc-command.exe -w wc-command.txt<br/>
+      .\wc-command.exe -m wc-command.txt<br/>
+<br/>
 Ref: https://codingchallenges.fyi/challenges/challenge-wc
